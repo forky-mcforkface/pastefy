@@ -29,7 +29,7 @@
     "@vueuse/core": "^13.0.0",
     "@vueuse/router": "^13.9.0",
     "asciinema-player": "^3.9.0",
-    "axios": "^1.8.4",
+    "axios": "^1.20.0",
     "codemirror": "^5.65.19",
     "codemirror-editor-vue3": "^2.8.0",
     "crypto-js": "^4.2.0",

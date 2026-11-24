@@ -38,7 +38,7 @@
     "dompurify": "^3.2.5",
     "echarts": "^6.1.0",
     "highlight.js": "^11.11.1",
-    "i18next": "^26.3.0",
+    "i18next": "^26.7.2",
     "i18next-vue": "^5.4.0",
     "ia-flag-icons": "^2.0.0",
     "ical.js": "^2.1.0",
